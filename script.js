@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Hack World is ready to inspire! 🚀");
+    console.log("Mundo Informático está listo para explorar.");
 });
