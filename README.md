@@ -1,18 +1,17 @@
-# Mundo Informático
+# Mi Pagina Web
 
-Bienvenido a **Mundo Informático**, un espacio creado por un joven de 16 años apasionado por la tecnología y la programación. Aquí puedes explorar más sobre mis intereses, proyectos y habilidades.
+Bienvenido a **Mi Pagina Web**, aqui hay información sobre mí.
 
 ---
 
 ## Sobre mí
 
-Soy un estudiante entusiasta que disfruta aprender sobre informática. Me interesan áreas como la programación, la ciberseguridad y el desarrollo de videojuegos. Estas son algunas de mis habilidades principales:
+Soy un estudiante que le gusta la programación:
 
 ### Habilidades
 
-- **Programación:** Experiencia con Python, JavaScript y C++.
-- **Ciberseguridad:** Explorando hacking ético y análisis de seguridad.
-- **Desarrollo de videojuegos:** Creación de juegos con Unity y Unreal Engine.
+- **Programación:** Experiencia con Python, un poco de JavaScript y C++.
+- **Diseño de pagina web:** He hecho algo de diseño en páginas web.
 
 ---
 
@@ -20,38 +19,36 @@ Soy un estudiante entusiasta que disfruta aprender sobre informática. Me intere
 
 A continuación, algunos proyectos en los que he trabajado:
 
-### Chatbot con IA
+### Debian 12 en Virtual Box
 
-Un chatbot inteligente creado utilizando Python y APIs de inteligencia artificial.
+He instalado Debian 12 en una virtual box y le he dado uso.
 
-### Analizador de contraseñas
+### Un juego básico en Python
 
-Herramienta para evaluar la seguridad de contraseñas. Proyecto educativo.
+He creado un juego basico en Python con un poco de ayuda de Chatgpt.
 
 ### Esta página web
 
-Este sitio fue diseñado usando HTML, CSS y JavaScript, y refleja mi aprendizaje en desarrollo web.
+Este sitio fue diseñado usando Markdown.
 
 ---
 
 ## Contacto
 
-¿Interesado en colaborar o simplemente hablar de tecnología? No dudes en contactarme:
+Mis diferentes contactos actualmente:
 
-- **Correo:** [mundo_informatico@gmail.com](mailto:mundo_informatico@gmail.com)
-- **GitHub:** [github.com/mundoinformatico](https://github.com/mundoinformatico)
-- **Discord:** JovenInformático#2024
+- **Correo:** [lbongiovannic@esliceu.net](mailto:lbongiovannic@esliceu.net)
+- **GitHub:** [github://github.com/pagina-web](https://github.com/pagina-web)
+- **Discord:** lucas191#9301
 
 ---
 
-## ¿Cómo se hizo esta página?
+## ¿Cómo hice esta página?
 
 - **Tecnologías usadas:**
-  - HTML y CSS para el diseño.
-  - JavaScript para interactividad básica.
+  - Markdown
 - **Herramientas:**
   - Editor de código: Visual Studio Code.
   - Control de versiones: Git y GitHub.
 
-¡Gracias por visitar mi proyecto! Espero que encuentres interesante mi trabajo y mis ideas.
-
+Hasta aqui mi pàgina web, adios.
