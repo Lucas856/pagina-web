@@ -38,7 +38,7 @@ Este sitio fue diseñado usando Markdown.
 Mis diferentes contactos actualmente:
 
 - **Correo:** [lbongiovannic@esliceu.net](mailto:lbongiovannic@esliceu.net)
-- **GitHub:** [github://github.com/pagina-web](https://github.com/pagina-web)
+- **GitHub:** [github://github.com/Lucas856](https://github.com/Lucas856)
 - **Discord:** lucas191#9301
 
 ---
